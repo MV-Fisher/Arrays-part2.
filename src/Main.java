@@ -76,3 +76,4 @@ public class Main {
     public static void printNumberTask(int num) {System.out.println("Задача № " + num + ".");
     }
 }
+// Домашнее задание считаю выполненным.
